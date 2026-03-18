@@ -1,0 +1,9 @@
+librosa
+numpy
+scipy
+sounddevice
+matplotlib
+gtts
+datasets
+transformers
+streamlit
